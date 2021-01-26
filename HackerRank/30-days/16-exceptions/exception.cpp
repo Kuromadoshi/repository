@@ -27,5 +27,16 @@ int main ()
 {
     string S;
     cin >> S;
+    int n;
+    try
+    {
+        n = stoi (S);
+    }
+    catch(const invalid_argument & ia)
+    {
+        cout << "Bad String" << endl;
+        return 0;
+    }
+    cout << n;
     return 0;
 }
