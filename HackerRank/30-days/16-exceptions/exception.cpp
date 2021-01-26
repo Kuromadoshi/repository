@@ -37,6 +37,6 @@ int main ()
         cout << "Bad String" << endl;
         return 0;
     }
-    cout << n;
+    cout << n << endl;
     return 0;
 }
