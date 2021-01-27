@@ -5,6 +5,18 @@
 using namespace std;
 
 //Write your code here
+class Calculator
+{
+public:
+    int power (int n, int p)
+    {
+        if (n<0 or p<0)
+        {
+            throw runtime_error("n and p must be non-negative");
+        }
+        return(pow(n, p));
+    }
+};
 
 int main()
 {
