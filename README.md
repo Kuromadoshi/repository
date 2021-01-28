@@ -3,7 +3,10 @@
 
 **Resources:**
 
-HackerRank [HackerRank](https://www.hackerrank.com)
-Advent of Code [Advent of Code](https://adventofcode.com)
-C++ Reference [cplusplus](https://www.cplusplus.com/reference)
-Learn Ruby [tutorialspoint](https://www.tutorialspoint.com/ruby)
+[HackerRank](https://www.hackerrank.com)
+
+[Advent of Code](https://adventofcode.com)
+
+[C++ Reference](https://www.cplusplus.com/reference)
+
+[Learn Ruby](https://www.tutorialspoint.com/ruby)
