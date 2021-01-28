@@ -1,5 +1,4 @@
-# Kuromashi's Repository
-## Learning C++, Ruby and Python
+# Learning C++, Ruby and Python
 
 **Resources:**
 
