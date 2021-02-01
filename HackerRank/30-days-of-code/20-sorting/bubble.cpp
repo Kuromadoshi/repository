@@ -1,6 +1,6 @@
-//#include <bits/stdc++.h> this library is no available on mac?
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h> // this library is no available on mac?
+//#include <iostream>
+//#include <vector>
 
 using namespace std;
 
