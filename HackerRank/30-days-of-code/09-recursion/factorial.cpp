@@ -3,14 +3,10 @@
 using namespace std;
 
 // Complete the factorial function below.
-int factorial(int n) 
+int factorial(int n)
 {
-    int fact = 1;
-    for (int i = 0; i < n; ++i)
-    {
-        fact *= (n-i);
-    }
-    return fact;
+    if (n > 1) return n * factorial(n-1);
+    else return 1;
 }
 
 int main()
@@ -25,9 +21,9 @@ int main()
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
     int result = factorial(n);
-	
+
 	//using cout instead.
-	
+
 	cout << result << "\n";
 
     //fout << result << "\n";
